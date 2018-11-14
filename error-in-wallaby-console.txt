@@ -1,0 +1,189 @@
+wallaby.js started
+core v1.0.634
+Wed, 14 Nov 2018 10:28:01 GMT wallaby:project Wallaby config: C:/Projects/with-jest-wallaby/wallaby.js
+Wed, 14 Nov 2018 10:28:02 GMT wallaby:project File cache: C:\Users\mebrein\.WebStorm2018.2\system\wallaby\projects\d85a6d94c881c889
+Wed, 14 Nov 2018 10:28:02 GMT wallaby:uiService Listening port 51235
+Wed, 14 Nov 2018 10:28:02 GMT wallaby:project .babelrc file change detected, invalidating local cache
+Wallaby App (realtime reports) is available at: http://localhost:51245
+Wed, 14 Nov 2018 10:28:03 GMT wallaby:workers Parallelism for initial run: 2, for regular run: 2
+Wed, 14 Nov 2018 10:28:03 GMT wallaby:workers Starting run worker instance #0
+Wed, 14 Nov 2018 10:28:03 GMT wallaby:workers Starting run worker instance #1
+Wed, 14 Nov 2018 10:28:03 GMT wallaby:workers Web server is listening at 54587
+Wed, 14 Nov 2018 10:28:03 GMT wallaby:project File cache requires some updates, waiting required files from IDE
+Wed, 14 Nov 2018 10:28:03 GMT wallaby:project File package.json changes are patches only: false
+Wed, 14 Nov 2018 10:28:03 GMT wallaby:project File jest.setup.js changes are patches only: false
+Wed, 14 Nov 2018 10:28:03 GMT wallaby:project File jest.config.js changes are patches only: false
+Wed, 14 Nov 2018 10:28:03 GMT wallaby:project File pages/index.js changes are patches only: false
+Wed, 14 Nov 2018 10:28:03 GMT wallaby:project File __tests__/index.test.js changes are patches only: false
+Wed, 14 Nov 2018 10:28:03 GMT wallaby:project File __tests__/__snapshots__/index.test.js.snap changes are patches only: false
+Wed, 14 Nov 2018 10:28:03 GMT wallaby:project Preparing to process package.json
+Wed, 14 Nov 2018 10:28:03 GMT wallaby:project Starting processor pool (if not yet started)
+Wed, 14 Nov 2018 10:28:03 GMT wallaby:project File package.json is not instrumented by core
+Wed, 14 Nov 2018 10:28:03 GMT wallaby:project Preparing to process jest.setup.js
+Wed, 14 Nov 2018 10:28:03 GMT wallaby:project Starting processor pool (if not yet started)
+Wed, 14 Nov 2018 10:28:03 GMT wallaby:project Preparing to process jest.config.js
+Wed, 14 Nov 2018 10:28:03 GMT wallaby:project Starting processor pool (if not yet started)
+Wed, 14 Nov 2018 10:28:03 GMT wallaby:project Preparing to process __tests__/index.test.js
+Wed, 14 Nov 2018 10:28:03 GMT wallaby:project Starting processor pool (if not yet started)
+Wed, 14 Nov 2018 10:28:03 GMT wallaby:project Preparing to process __tests__/__snapshots__/index.test.js.snap
+Wed, 14 Nov 2018 10:28:03 GMT wallaby:project Starting processor pool (if not yet started)
+Wed, 14 Nov 2018 10:28:03 GMT wallaby:project File __tests__/__snapshots__/index.test.js.snap is not instrumented by core
+Wed, 14 Nov 2018 10:28:03 GMT wallaby:project Preparing to process pages/index.js
+Wed, 14 Nov 2018 10:28:03 GMT wallaby:project Starting processor pool (if not yet started)
+Wed, 14 Nov 2018 10:28:04 GMT wallaby:workers Started run worker instance (delayed) #0
+Wed, 14 Nov 2018 10:28:04 GMT wallaby:workers Started run worker instance (delayed) #1
+Wed, 14 Nov 2018 10:28:04 GMT wallaby:uiService UI client connected
+Wed, 14 Nov 2018 10:28:04 GMT wallaby:uiService Outgoing message ui:handshake
+Wed, 14 Nov 2018 10:28:05 GMT wallaby:processor Running 1 processor(s) for package.json
+Wed, 14 Nov 2018 10:28:05 GMT wallaby:processor Finished running one processor for package.json
+Wed, 14 Nov 2018 10:28:05 GMT wallaby:project Writing to disk and caching processed file package.json
+Wed, 14 Nov 2018 10:28:05 GMT wallaby:processor No preprocessors found for __tests__/__snapshots__/index.test.js.snap
+Wed, 14 Nov 2018 10:28:05 GMT wallaby:project Writing to disk and caching processed file __tests__/__snapshots__/index.test.js.snap
+Wed, 14 Nov 2018 10:28:05 GMT wallaby:processor Running 1 processor(s) for pages/index.js
+Wed, 14 Nov 2018 10:28:05 GMT wallaby:project File package.json changes saved, store ts: 1542189450442, change ts: 1542191283208
+Wed, 14 Nov 2018 10:28:05 GMT wallaby:project File __tests__/__snapshots__/index.test.js.snap changes saved, store ts: 1542191220192, change ts: 1542191283209
+Wed, 14 Nov 2018 10:28:05 GMT wallaby:processor Running 1 processor(s) for jest.config.js
+Wed, 14 Nov 2018 10:28:05 GMT wallaby:processor Running 1 processor(s) for jest.setup.js
+Wed, 14 Nov 2018 10:28:05 GMT wallaby:processor Running 1 processor(s) for __tests__/index.test.js
+Wed, 14 Nov 2018 10:28:08 GMT wallaby:processor Finished running one processor for jest.config.js
+Wed, 14 Nov 2018 10:28:08 GMT wallaby:project Processing compiled jest.config.js
+Wed, 14 Nov 2018 10:28:08 GMT wallaby:project Instrumenting jest.config.js, via process pool: true
+Wed, 14 Nov 2018 10:28:08 GMT wallaby:processor Finished running one processor for jest.setup.js
+Wed, 14 Nov 2018 10:28:08 GMT wallaby:project Processing compiled jest.setup.js
+Wed, 14 Nov 2018 10:28:08 GMT wallaby:project Instrumenting jest.setup.js, via process pool: true
+Wed, 14 Nov 2018 10:28:08 GMT wallaby:processor No preprocessors found for jest.config.js
+Wed, 14 Nov 2018 10:28:08 GMT wallaby:project Writing to disk and caching processed file jest.config.js
+Wed, 14 Nov 2018 10:28:08 GMT wallaby:project File jest.config.js changes saved, store ts: 1542188406331, change ts: 1542191283209
+Wed, 14 Nov 2018 10:28:08 GMT wallaby:processor No preprocessors found for jest.setup.js
+Wed, 14 Nov 2018 10:28:08 GMT wallaby:project Writing to disk and caching processed file jest.setup.js
+Wed, 14 Nov 2018 10:28:08 GMT wallaby:project File jest.setup.js changes saved, store ts: 1542119933975, change ts: 1542191283208
+Wed, 14 Nov 2018 10:28:08 GMT wallaby:processor Finished running one processor for pages/index.js
+Wed, 14 Nov 2018 10:28:08 GMT wallaby:project Processing compiled pages/index.js
+Wed, 14 Nov 2018 10:28:08 GMT wallaby:project Instrumenting pages/index.js, via process pool: true
+Wed, 14 Nov 2018 10:28:08 GMT wallaby:uiService Incoming message ui:tests:resultsRequested
+Wed, 14 Nov 2018 10:28:08 GMT wallaby:uiService Outgoing message ui:tests:allResultsUpdated
+Wed, 14 Nov 2018 10:28:08 GMT wallaby:uiService Incoming message ui:start
+Wed, 14 Nov 2018 10:28:08 GMT wallaby:uiService Outgoing message ui:summary
+Wed, 14 Nov 2018 10:28:08 GMT wallaby:uiService Outgoing message ui:files
+Wed, 14 Nov 2018 10:28:08 GMT wallaby:processor No preprocessors found for pages/index.js
+Wed, 14 Nov 2018 10:28:08 GMT wallaby:project Writing to disk and caching processed file pages/index.js
+Wed, 14 Nov 2018 10:28:08 GMT wallaby:project File pages/index.js changes saved, store ts: 1542191098483, change ts: 1542191283209
+Wed, 14 Nov 2018 10:28:09 GMT wallaby:processor Finished running one processor for __tests__/index.test.js
+Wed, 14 Nov 2018 10:28:09 GMT wallaby:project Processing compiled __tests__/index.test.js
+Wed, 14 Nov 2018 10:28:09 GMT wallaby:project Instrumenting __tests__/index.test.js, via process pool: true
+Wed, 14 Nov 2018 10:28:09 GMT wallaby:project Re-attaching document block comment
+Wed, 14 Nov 2018 10:28:09 GMT wallaby:processor No preprocessors found for __tests__/index.test.js
+Wed, 14 Nov 2018 10:28:09 GMT wallaby:project Writing to disk and caching processed file __tests__/index.test.js
+Wed, 14 Nov 2018 10:28:09 GMT wallaby:project File __tests__/index.test.js changes saved, store ts: 1542189674591, change ts: 1542191283209
+Wed, 14 Nov 2018 10:28:09 GMT wallaby:project Stopping process pool
+Wed, 14 Nov 2018 10:28:09 GMT wallaby:project Running postprocessor
+Wed, 14 Nov 2018 10:28:09 GMT wallaby:postprocessor New TypeScript language service is required
+Wed, 14 Nov 2018 10:28:09 GMT wallaby:postprocessor TypeScript postprocessor will be removed because in 6 project files none were found by patterns: **/*.ts?(x)
+Wed, 14 Nov 2018 10:28:09 GMT wallaby:project Postprocessor execution finished
+Wed, 14 Nov 2018 10:28:09 GMT wallaby:project Postprocessor is removed as requested by itself
+Wed, 14 Nov 2018 10:28:09 GMT wallaby:project Test run started; run priority: 3
+Wed, 14 Nov 2018 10:28:09 GMT wallaby:project Running all tests
+Wed, 14 Nov 2018 10:28:09 GMT wallaby:workers Starting test run, priority: 3
+Wed, 14 Nov 2018 10:28:09 GMT wallaby:nodeRunner Starting sandbox [worker #0, session #f0zif]
+Wed, 14 Nov 2018 10:28:09 GMT wallaby:nodeRunner Preparing sandbox [worker #0, session #f0zif]
+Wed, 14 Nov 2018 10:28:09 GMT wallaby:nodeRunner Prepared sandbox [worker #0, session #f0zif]
+Wed, 14 Nov 2018 10:28:09 GMT wallaby:workers [worker #0, session #f0zif] Running tests in sandbox
+Runtime error: Jest encountered an unexpected token
+Wed, 14 Nov 2018 10:28:17 GMT wallaby:workers Sandbox (active) [f0zif] error: Jest encountered an unexpected token
+
+This usually means that you are trying to import a file which Jest cannot parse, e.g. it's not plain JavaScript.
+
+By default, if Jest sees a Babel config, it will use that to transform your files, ignoring "node_modules".
+
+Here's what you can do:
+ • To have some of your "node_modules" files transformed, you can specify a custom "transformIgnorePatterns" in your config.
+ • If you need a custom transformation specify a "transform" option in your config.
+ • If you simply want to mock your non-JS modules (e.g. binary assets) you can stub them out with the "moduleNameMapper" config option.
+
+You'll find more details and examples of these config options in the docs:
+https://jestjs.io/docs/en/configuration.html
+
+Details:
+
+C:\Users\mebrein\.WebStorm2018.2\system\wallaby\projects\d85a6d94c881c889\instrumented\__tests__\index.test.js:6
+import { shallow } from 'enzyme';
+       ^
+
+SyntaxError: Unexpected token {
+
+This usually means that you are trying to import a file which Jest cannot parse, e.g. it's not plain JavaScript.
+
+By default, if Jest sees a Babel config, it will use that to transform your files, ignoring "node_modules".
+
+Here's what you can do:
+ • To have some of your "node_modules" files transformed, you can specify a custom "transformIgnorePatterns" in your config.
+ • If you need a custom transformation specify a "transform" option in your config.
+ • If you simply want to mock your non-JS modules (e.g. binary assets) you can stub them out with the "moduleNameMapper" config option.
+
+You'll find more details and examples of these config options in the docs:
+https://jestjs.io/docs/en/configuration.html
+
+Details:
+
+.\__tests__\index.test.js:6
+import { shallow } from 'enzyme';
+       ^
+
+SyntaxError: Unexpected token {
+    at new Script (vm.js:79:7)
+    at ScriptTransformer._transformAndBuildScript (C:\Projects\with-jest-wallaby\node_modules\jest-runtime\build\script_transformer.js:400:17)
+    at ScriptTransformer.transform (C:\Projects\with-jest-wallaby\node_modules\jest-runtime\build\script_transformer.js:445:19)
+    at Runtime._execModule (C:\Projects\with-jest-wallaby\node_modules\jest-runtime\build\index.js:640:53)
+    at Runtime.requireModule (C:\Projects\with-jest-wallaby\node_modules\jest-runtime\build\index.js:376:14)
+    at C:\Projects\with-jest-wallaby\node_modules\jest-jasmine2\build\index.js:129:13
+    at Generator.next (<anonymous>)
+    at step (C:\Projects\with-jest-wallaby\node_modules\jest-jasmine2\build\index.js:170:30)
+    at C:\Projects\with-jest-wallaby\node_modules\jest-jasmine2\build\index.js:189:14
+    at new Promise (<anonymous>)
+    at C:\Projects\with-jest-wallaby\node_modules\jest-jasmine2\build\index.js:167:12
+    at jasmine2 (C:\Projects\with-jest-wallaby\node_modules\jest-jasmine2\build\index.js:138:17)
+    at C:\Projects\with-jest-wallaby\node_modules\jest-runner\build\run_test.js:187:24
+    at Generator.next (<anonymous>)
+    at step (C:\Projects\with-jest-wallaby\node_modules\jest-runner\build\run_test.js:315:30)
+    at C:\Projects\with-jest-wallaby\node_modules\jest-runner\build\run_test.js:326:15
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+console.log: FAIL __tests__/index.test.js
+
+console.log:   ● Test suite failed to run
+
+    Jest encountered an unexpected token
+
+    This usually means that you are trying to import a file which Jest cannot parse, e.g. it's not plain JavaScript.
+
+    By default, if Jest sees a Babel config, it will use that to transform your files, ignoring "node_modules".
+
+    Here's what you can do:
+     • To have some of your "node_modules" files transformed, you can specify a custom "transformIgnorePatterns" in your config.
+     • If you need a custom transformation specify a "transform" option in your config.
+     • If you simply want to mock your non-JS modules (e.g. binary assets) you can stub them out with the "moduleNameMapper" config option.
+
+    You'll find more details and examples of these config options in the docs:
+    https://jestjs.io/docs/en/configuration.html
+
+    Details:
+
+    C:\Users\mebrein\.WebStorm2018.2\system\wallaby\projects\d85a6d94c881c889\instrumented\__tests__\index.test.js:6
+    import { shallow } from 'enzyme';
+           ^
+
+    SyntaxError: Unexpected token {
+      at ScriptTransformer._transformAndBuildScript (node_modules/jest-runtime/build/script_transformer.js:400:17)
+      at Runtime.d._wallabyReplaced.c.requireModule (../../Users/mebrein/.WebStorm2018.2/system/wallaby/wallaby/runners/node/jest@0.4.3/initializer.js:14:22691)
+
+
+Wed, 14 Nov 2018 10:28:17 GMT wallaby:workers [f0zif] Run 0 test(s), skipped 0 test(s)
+Wed, 14 Nov 2018 10:28:17 GMT wallaby:workers [f0zif] Sandbox is responsive, closing it
+Wed, 14 Nov 2018 10:28:17 GMT wallaby:project Test run finished
+Wed, 14 Nov 2018 10:28:17 GMT wallaby:project Processed console.log entries
+Wed, 14 Nov 2018 10:28:17 GMT wallaby:project Processed loading sequences
+Wed, 14 Nov 2018 10:28:17 GMT wallaby:project Processed executed tests
+Wed, 14 Nov 2018 10:28:17 GMT wallaby:project Processed code coverage
+Wed, 14 Nov 2018 10:28:17 GMT wallaby:project Test run result processed and sent to IDE
+Wed, 14 Nov 2018 10:28:18 GMT wallaby:uiService Outgoing message ui:summary
+Wed, 14 Nov 2018 10:28:18 GMT wallaby:uiService Outgoing message ui:tests:allResultsUpdated
+Wed, 14 Nov 2018 10:28:18 GMT wallaby:uiService Outgoing message ui:coverageChanged
