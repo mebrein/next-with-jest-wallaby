@@ -1,6 +1,6 @@
 module.exports = function(wallaby) {
   return {
-    files: ['/pages/**/*.js?(x)', 'jest.setup.js', 'jest.config.js', 'package.json'],
+    files: ['pages/**/*.js?(x)', 'jest.setup.js', 'jest.config.js'],
     tests: ['**/*.test.js?(x)', '!node_modules/**/*.test.js?(x)'],
 
     env: {
@@ -9,14 +9,11 @@ module.exports = function(wallaby) {
     },
 
     compilers: {
-      '**/*.js?(x)': wallaby.compilers.babel({
-        babel: require('babel-core'),
-        babelrc: true
-      })
+      '**/*.js?(x)': wallaby.compilers.babel()
     },
 
     testFramework: 'jest',
 
-    debug: false
+    debug: true
   }
 }
